@@ -1,3 +1,3 @@
 const moduleVar = 12;
 
-export {moduleVar}
+export const exportedVar = 20;
